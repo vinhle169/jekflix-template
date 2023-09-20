@@ -30,6 +30,11 @@
           <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
+      {% if site.spotify_username %}
+        <a href="https://open.spotify.com/user/{{ site.spotify_username }}" title="Spotify">
+          <svg><use xlink:href="#icon-spotify"></use></svg>
+        </a>
+      {% endif %}
     </p>
 
     {% include links.html %}
