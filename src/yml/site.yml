@@ -1,13 +1,17 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Vinh Le
+title: A Website For A Guy Who Likes AI and Games
+description: MIT Graduate, Bachelors and Masters in Computation and Cognition
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
+  - coder
+  - gamer
+  - software engineer
+  - data scientist
+  - mit
 show_hero: true
 menu:
   - title: Home
@@ -20,7 +24,7 @@ menu:
     url: /feed.xml
 email: youremail@test.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username:
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
