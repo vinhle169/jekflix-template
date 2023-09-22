@@ -52,7 +52,7 @@ two_columns_layout: false
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "vinhle169.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
