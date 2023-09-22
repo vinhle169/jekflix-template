@@ -18,7 +18,7 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: /welcome-page/
   - title: CV
     url: /cv
   - title: Contact
@@ -45,10 +45,10 @@ spotify_username: binhyee
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
@@ -73,7 +73,7 @@ use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: true
+  enabled: false
   debug: false
   collections:
     - posts
