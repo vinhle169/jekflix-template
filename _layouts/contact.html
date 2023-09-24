@@ -14,7 +14,9 @@ layout: page
 <div class="container">
 
   <h2>{{ site.translations.contact.title | default: "Message Me Here" }}</h2>
-
+  <p><strong>If</strong> direct contact, use vinhle184@gmail.com or <a href="https://www.linkedin.com/in/vinhle169/">Linkedin</a><br>
+    <strong>Else</strong>, fill out the form below :).
+  </p>
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{% if site.formspree_form_id %}f/{{ site.formspree_form_id }}{% else %}{{ site.email }}{% endif %}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
