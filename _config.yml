@@ -23,14 +23,14 @@ menu:
     url: /cv
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+#  - title: Feed
+#    url: /feed.xml
 email: vinhle184@gmail.com
 # See: https://disqus.com/
 disqus_username:
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xvojwlqw
 
 
 # Social Media Settings
