@@ -5,4 +5,7 @@
 Huge thanks to the creator [thiagorossener](https://github.com/thiagorossener)  
 See the [demo here](https://jekflix.rossener.com/). 
 
+Changed a lot of files, opted for a more minimalistic look. Grabbed a copyright-free Cyberpunk photo to use as a the main background photo.  
+Also added Spotify button and included a new scss class "post-content-two", to try to minimize less white-space on the sides.
+
 
