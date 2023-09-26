@@ -89,9 +89,8 @@ _Research Laboratory of Electronics, MIT_<br>
 
 **[Heal-Bot: Quarantine Aide Assistant](https://devpost.com/software/a-m7lzpr)**, Facebook Artificial Intelligence Hackathon  &nbsp;&nbsp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;**June 2020**
 <br>
-* Created a Python-based AI chatbot, to provide medical information and support.  
-* Worked on backend development handling all interactions that occur between the user and the chatbot and
-also managing multiple REST APIs (google-maps, google-geocoding, wit.ai).  
+* Created an AI chatbot, designed to provide accessible medical information and support. Built using Python, Javascript, html, React, Node, Flask, and various REST APIs.
+* Worked on backend development handling all interactions that occur between user and chatbot. Developed classes to respond in the conversation and gather real time data making use of multiple REST APIs (google-maps, google-geocoding, wit.ai).  
 * Trained the wit.ai bot to learn intentions from phrases, which is used for conversation handling.
 
 
@@ -101,6 +100,8 @@ also managing multiple REST APIs (google-maps, google-geocoding, wit.ai).
 * Software Development
 * Data Management & Analytics
 * Machine Learning Model Development
-* Version Control
+* Testing and Debugging / Rapid Prototyping
+* Teamwork / Clear Communication
+* Version Control and Project Management
  
 
