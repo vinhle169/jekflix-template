@@ -12,7 +12,8 @@ permalink: /cv/
 [Access Contact Info](/contact)
 ## <u>Summary</u> <br>
 I am a dedicated and self-motivated software and data engineer with a passion for learning and applying new technologies. Experienced in creating and innovating
- systems that drive efficiency and solve complex problems. Being a clear communicator and great team player I thrive in dynamic environments that allow me to leverage my skills to deliver robust solutions. My track record of successful projects, coupled with my commitment to staying current with industry trends, positions me to align well with any company’s organizational needs to further its success. <br>
+ systems that drive efficiency and solve complex problems. Being a clear communicator and great team player I thrive in dynamic environments that allow me to leverage my skills to deliver robust solutions.
+My track record of successful projects, coupled with my commitment to staying current with industry trends, positions me to align well with any company’s organizational needs to further its success. <br>
 ## <u>Education</u> <br>
 * _**Massachusetts Institute of Technology(MIT)**_, Cambridge MA, &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; **June 2023**
 
@@ -94,6 +95,9 @@ _Research Laboratory of Electronics, MIT_<br>
 * Worked on backend development handling all interactions that occur between user and chatbot. Developed classes to respond in the conversation and gather real time data making use of multiple REST APIs (google-maps, google-geocoding, wit.ai).  
 * Trained the wit.ai bot to learn intentions from phrases, which is used for conversation handling.
 
+[//]: # (Worked with a group of 4 Students to duplicate a game with an Arduino. Oversaw integration of gyroscope & accelerometer data for throwing mechanics. Made use of Python SQL to organize GPS, image, and player data.)
+
+[//]: # (&#40;The URL isn't available because it was done under MIT Github&#41;)
 
 
 
