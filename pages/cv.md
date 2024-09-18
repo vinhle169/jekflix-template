@@ -28,14 +28,17 @@ My track record of successful projects, coupled with my commitment to staying cu
 **Analyst**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;**December 2023 - Present**
 <br>
 _Toyon Research Corporation, Goleta, CA_ <br>
-* Researched and constructed sparse-tensor based models for classification in dynamic 3-D environments in near-real time.  
+* Researched and constructed sparse-tensor based models for classification in dynamic 3-D environments in near-real time.
 
 * Generated a novel dataset for high-resolution synthetic-aperture radar images using various techniques involving web-scraping, georegistration, and data augmentation.
+
 * Developed an oriented bounding box detector using Rotated Faster R-CNN for automatic target recognition in synthetic-aperture radar images.
+
 * Designed and managed projects for multiple interns.
   * Optical character recognition for identifying objects of interest with PaddleOCR. 
   * Cylinder detecting in 3-D using surface normals to generate ground-truths.
   * Build of 3-D data collector which made use of a $14k Ouster Sensor and two wide-range cameras.
+
 * Technologies Utilized:
   * Python, PyTorch, OpenCV, Open3D, scikit-learn, scikit-image, NumPy, scipy, pandas, Docker, Cloud Computing, Linux, SSH, matplotlib, tensorboard, torchmetrics, Jupyter
 <br>
