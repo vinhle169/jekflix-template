@@ -25,7 +25,7 @@ My track record of successful projects, coupled with my commitment to staying cu
   - Bachelor of Science, [Computation and Cognition](https://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/computation-cognition/), GPA: 4.7 <br>  
 
 ## <u>Related Experience</u> <br>
-**Analyst**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;**December 2023 - Present**
+**Analyst**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;**December 2023 - Present**
 <br>
 _Toyon Research Corporation, Goleta, CA_ <br>
 * Researched and constructed sparse-tensor based models for classification in dynamic 3-D environments in near-real time.  
@@ -38,10 +38,10 @@ _Toyon Research Corporation, Goleta, CA_ <br>
   * Build of 3-D data collector which made use of a $14k Ouster Sensor and two wide-range cameras.
 * Technologies Utilized:
   * Python, PyTorch, OpenCV, Open3D, scikit-learn, scikit-image, NumPy, scipy, pandas, Docker, Cloud Computing, Linux, SSH, matplotlib, tensorboard, torchmetrics, Jupyter
-<br>  
-  * 
+<br>
+  
 **Research Assistant**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;**January 2022 - May 2023**
-<br>  
+<br>
 _Fraenkel Lab, MIT_ <br>
 * Constructed and trained a UNet(a type of convolutional neural network) which exceeded state-of-the-art performance on high resolution neuron image segmentation(>98% accuracy).
 
