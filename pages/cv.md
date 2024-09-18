@@ -11,8 +11,8 @@ permalink: /cv/
 [Download CV](https://drive.google.com/uc?export=download&id=1zwIQNAmbN7xgzJZk7983cEWwcpk5m70L) <br>
 [Access Contact Info](/contact)
 ## <u>Summary</u> <br>
-I am a dedicated and self-motivated software and data engineer with a passion for learning and applying new technologies. Experienced in creating and innovating
- systems that drive efficiency and solve complex problems. Being a clear communicator and great team player I thrive in dynamic environments that allow me to leverage my skills to deliver robust solutions.
+I am a dedicated and self-motivated software and data engineer with a passion for learning and applying new technologies. I have a lot of experience in creating and innovating
+ systems that drive efficiency and solve complex problems. Being a clear communicator and great team player, I thrive in dynamic environments that allow me to leverage my skills to deliver robust solutions.
 My track record of successful projects, coupled with my commitment to staying current with industry trends, positions me to align well with any company’s organizational needs to further its success. <br>
 ## <u>Education</u> <br>
 * _**Massachusetts Institute of Technology(MIT)**_, Cambridge MA, &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; **June 2023**
@@ -25,8 +25,23 @@ My track record of successful projects, coupled with my commitment to staying cu
   - Bachelor of Science, [Computation and Cognition](https://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/computation-cognition/), GPA: 4.7 <br>  
 
 ## <u>Related Experience</u> <br>
+**Analyst**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;**December 2023 - Present**
+<br>
+_Toyon Research Corporation, Goleta, CA_ <br>
+* Researched and constructed sparse-tensor based models for classification in dynamic 3-D environments in near-real time.  
+
+* Generated a novel dataset for high-resolution synthetic-aperture radar images using various techniques involving web-scraping, georegistration, and data augmentation.
+* Developed an oriented bounding box detector using Rotated Faster R-CNN for automatic target recognition in synthetic-aperture radar images.
+* Designed and managed projects for multiple interns.
+  * Optical character recognition for identifying objects of interest with PaddleOCR. 
+  * Cylinder detecting in 3-D using surface normals to generate ground-truths.
+  * Build of 3-D data collector which made use of a $14k Ouster Sensor and two wide-range cameras.
+* Technologies Utilized:
+  * Python, PyTorch, OpenCV, Open3D, scikit-learn, scikit-image, NumPy, scipy, pandas, Docker, Cloud Computing, Linux, SSH, matplotlib, tensorboard, torchmetrics, Jupyter
+<br>  
+  * 
 **Research Assistant**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;**January 2022 - May 2023**
-<br> 
+<br>  
 _Fraenkel Lab, MIT_ <br>
 * Constructed and trained a UNet(a type of convolutional neural network) which exceeded state-of-the-art performance on high resolution neuron image segmentation(>98% accuracy).
 
